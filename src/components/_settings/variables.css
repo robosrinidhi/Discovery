@@ -1,13 +1,10 @@
-/* :root aids in making global css variables */
 :root {
-  /* fonts */
+  
   --font-roboto: "Roboto", sans-serif;
   --font-sans: sans-serif;
 
-  /* line-height */
   --lineheight-1: 1em;
 
-  /* colors  */
   --white: #ffffff;
   --black: #1111;
   --black-2: #1a1c21;
